@@ -237,7 +237,6 @@ const RTop = styled.div`
   width: 100%;
   object-fit: cover;
   overflow: hidden;
-  background-color: salmon;
   border-top-right-radius: 15px;
 `;
 const RBottom = styled.div`
@@ -245,5 +244,4 @@ const RBottom = styled.div`
   width: 100%;
   object-fit: cover;
   overflow: hidden;
-  background-color: salmon;
 `;
